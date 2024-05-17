@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895291640860",
+    "project_id": "virtualdressroom-7c625",
+    "storage_bucket": "virtualdressroom-7c625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895291640860:android:c54fca47291a02956fa3d9",
+        "android_client_info": {
+          "package_name": "com.example.virtual_dress_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApe2M4XnvhNh9FVSad6s9gEb4QeqcCzRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
